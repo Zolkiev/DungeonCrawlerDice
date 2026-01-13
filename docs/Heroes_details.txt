@@ -1,0 +1,200 @@
+Thief
+	HP: 4
+	
+	Face 1: 2 damage (bow)
+	Face 2: 2 damage (sword)
+	Face 3: empty
+	Face 4: empty
+	Face 5: 2 damage (sword)
+	Face 6: empty
+	
+Scoundrel
+	HP: 6
+	
+	Face 1: 1 damage (scythe)
+	Face 2: 1 damage (trident)
+	Face 3: empty
+	Face 4: empty
+	Face 5: empty
+	Face 6: empty
+	
+Lost
+	HP: 3
+	
+	Face 1: 1 damage (poison bow)
+	Face 2: 2 damage (dagger)
+	Face 3: 1 damage (dagger)
+	Face 4: 1 damage (dagger)
+	Face 5: stun targetted ennemy
+	Face 6: empty
+	
+Dabble
+	HP: 5
+		
+	Face 1: 5 points heal
+	Face 2: 2 protection (shield)
+	Face 3: 1 mana point
+	Face 4: 1 mana point
+	Face 5: 2 damage (sword)
+	Face 6: 1 damage (sword)
+	
+Fighter
+	HP: 5
+		
+	Face 1: 2 damage (sword)
+	Face 2: 2 damage (sword)
+	Face 3: 1 damage (sword)
+	Face 4: 1 damage (sword)
+	Face 5: 1 protection (shield)
+	Face 6: 1 protection (shield)
+	
+Brigand
+	HP: 5
+		
+	Face 1: 3 damage (2 handed sword)
+	Face 2: 3 damage (2 handed sword)
+	Face 3: 1 damage + 1 protection on himself (sword + shield)
+	Face 4: 1 damage + 1 protection on himself (sword + shield)
+	Face 5: 1 damage (sword)
+	Face 6: 1 damage (sword)
+	
+Ruffian
+	HP: 4
+		
+	Face 1: 5 damage (2 handed sword)
+	Face 2: 1 damage (trident)
+	Face 3: 1 damage (sword)
+	Face 4: 1 damage (sword)
+	Face 5: 2 protection (shield)
+	Face 6: empty
+	
+Hoarder
+	HP: 6
+		
+	Face 1: 2 damage (2 handed axe)
+	Face 2: 1 damage (sword)
+	Face 3: 1 damage (sword)
+	Face 4: 1 damage (sword)
+	Face 5: 2 damage (sword)
+	Face 6: 2 damage (sword)
+	
+Defender
+	HP: 7
+		
+	Face 1: 3 protection (shield)
+	Face 2: 2 protection (shield)
+	Face 3: 1 damage (sword)
+	Face 4: 1 damage (sword)
+	Face 5: 1 protection (shield)
+	Face 6: empty
+	
+Buckle
+	HP: 6
+		
+	Face 1: 2 protection (shield)
+	Face 2: 2 damage (2 handed axe)
+	Face 3: 2 protection (shield)
+	Face 4: 2 protection (shield)
+	Face 5: empty
+	Face 6: empty
+	
+Squire
+	HP: 5
+		
+	Face 1: 2 protection (shield)
+	Face 2: 1 damage (sword)
+	Face 3: 2 protection (shield)
+	Face 4: 2 protection (shield)
+	Face 5: 1 protection (shield)
+	Face 6: 1 protection (shield)
+	
+Alloy
+	HP: 4
+		
+	Face 1: 1 protection to all team (shield)
+	Face 2: 1 protection to player that launches the spell AND the targetted player (shield)
+	Face 3: 1 protection (shield)
+	Face 4: 1 protection (shield)
+	Face 5: 1 protection (shield)
+	Face 6: 1 protection (shield)
+	
+Healer
+	HP: 5
+		
+	Face 1: 2 mana points
+	Face 2: 1 mana point
+	Face 3: 3 points heal
+	Face 4: 3 points heal
+	Face 5: 1 mana point
+	Face 6: empty
+	
+Acolyte
+	HP: 5
+		
+	Face 1: 2 points heal
+	Face 2: 2 points heal
+	Face 3: 1 point heal to all team
+	Face 4: 1 point heal to all team
+	Face 5: 1 mana point
+	Face 6: 1 mana point
+	
+Mystic
+	HP: 5
+		
+	Face 1: 1 point heal
+	Face 2: 1 point heal
+	Face 3: 1 mana point
+	Face 4: 1 point heal
+	Face 5: empty
+	Face 6: empty
+	
+Splint
+	HP: 4
+		
+	Face 1: 3 mana points
+	Face 2: 2 mana points
+	Face 3: 5 points heal
+	Face 4: 5 points heal
+	Face 5: 1 mana point
+	Face 6: empty
+	
+Mage
+	HP: 4
+		
+	Face 1: 2 mana points
+	Face 2: 2 mana points
+	Face 3: 1 mana point
+	Face 4: 1 mana point
+	Face 5: empty
+	Face 6: empty
+	
+Student
+	HP: 5
+		
+	Face 1: stun ennemy
+	Face 2: 1 protection (shield)
+	Face 3: empty
+	Face 4: empty
+	Face 5: 1 protection (shield)
+	Face 6: empty
+	
+Initiate
+	HP: 4
+		
+	Face 1: 1 mana point
+	Face 2: 1 mana point
+	Face 3: 1 mana point
+	Face 4: 1 mana point
+	Face 5: 1 mana point
+	Face 6: empty
+	
+Cultist
+	HP: 5
+		
+	Face 1: 4 mana points (-2 health on player that launches the spell)
+	Face 2: 3 mana points (-2 health on player that launches the spell)
+	Face 3: 1 damage (magician staff)
+	Face 4: 1 damage (magician staff)
+	Face 5: 2 mana points (-2 health on player that launches the spell)
+	Face 6: 1 mana point (-1 health on player that launches the spell)
+	
