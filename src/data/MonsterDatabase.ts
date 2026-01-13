@@ -4,7 +4,7 @@
 
 export interface MonsterData {
   name: string;
-  size: 'Tiny' | 'Small' | 'Medium' | 'Large' | 'Huge' | 'Boss';
+  size: 'Tiny' | 'Small' | 'Medium' | 'Large' | 'Huge' | 'Boss' | 'Hero-Sized';
   hp: number;
   rarity?: string;
   trait?: string;

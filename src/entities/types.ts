@@ -58,6 +58,7 @@ export interface Enemy {
   dice: DiceFace[];
   position: number;
   incomingDamage: number; // Yellow pills - damage that will be applied
+  poisonCounter: number;
 }
 
 /**
