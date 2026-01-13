@@ -80,6 +80,7 @@ export class EntityFactory {
       dice: enemyData.dice,
       position: position,
       incomingDamage: 0,
+	  poisonCounter: 0,
     };
   }
 
