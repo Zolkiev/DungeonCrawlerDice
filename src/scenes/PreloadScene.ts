@@ -57,7 +57,7 @@ export class PreloadScene extends Phaser.Scene {
     
     allHeroes.forEach(hero => {
       const heroKey = `avatar_${hero.name.toLowerCase()}`;
-      const heroPath = `src/ui/heroes/${hero.name.toLowerCase()}.png`;
+      const heroPath = `heroes/${hero.name.toLowerCase()}.png`;
       
       // Try to load, fallback handled in HeroCard
       this.load.image(heroKey, heroPath);
@@ -70,7 +70,7 @@ export class PreloadScene extends Phaser.Scene {
     
     allMonsters.forEach(monster => {
       const enemyKey = `avatar_enemy_${monster.name.toLowerCase().replace(/\s+/g, '_')}`;
-      const enemyPath = `src/ui/monsters/${monster.name.toLowerCase().replace(/\s+/g, '_')}.png`;
+      const enemyPath = `monsters/${monster.name.toLowerCase().replace(/\s+/g, '_')}.png`;
       
       // Try to load, fallback handled in EnemyCard
       this.load.image(enemyKey, enemyPath);
